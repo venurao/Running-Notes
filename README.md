@@ -9,5 +9,5 @@ API Management is available in verious tiers diffring in capacity and features.
 ![image](https://github.com/venurao/Running-Notes/assets/19890397/2e36bdbb-4a76-4999-8f5e-eeb1b9938e84)
 
 ### API Gateway
-All requests from client application first reach API Gateway, which then forwards them to respective backend services.<br />
-They API
+- All requests from client application first reach API Gateway, which then forwards them to respective backend services.<br />
+- They API
