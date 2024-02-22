@@ -2,6 +2,8 @@
 ## API Management : https://www.youtube.com/watch?v=K-tYU8GOUt0&t=2287s
 
 https://learn.microsoft.com/en-us/azure/api-management/api-management-key-concepts
+https://www.youtube.com/watch?v=cxYHugyNTP0
+
 #### API Management Componenets
 Azure Api Management is made up of an API Gateway, a management plane and developer portal. 
 Thease components are azure-hosted and fully managed by default.
